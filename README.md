@@ -1,3 +1,4 @@
 # Hacktoberfest2020AEC
 
-Talk on Mobile Application Development Overview organized by Hactoberfest 2020 Assam Engineering College Edition.
+Talk on Mobile Application Development Overview 
+Organized by Hacktoberfest 2020 - Assam Engineering College.
