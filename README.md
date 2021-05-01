@@ -3,4 +3,4 @@
 ### Talk on Mobile Application Development Overview 
 
 
-#### Organized by Hacktoberfest 2020 - Assam Engineering College.
+#### Organized by Hacktoberfest 2020 - Assam Engineering College Edition.
